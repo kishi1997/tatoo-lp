@@ -1,0 +1,47 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - text: 
+    - generic [ref=e6]:
+      - main [ref=e8]:
+        - article [ref=e9]:
+          - generic [ref=e10]:
+            - text: 
+            - generic [ref=e15]:
+              - img "本物の彫り師になるなら" [ref=e16]
+              - generic [ref=e17]:
+                - link:
+                  - /url: https://liff.line.me/2008629487-06kammWa/landing?follow=%40922ddhwt&lp=TLi90d&liff_id=2008629487-06kammWa
+              - img "彫り師は今アツい職業" [ref=e18]
+              - img "彫り師になるのは難しい？" [ref=e19]
+              - img "KAGEROU TATTOO SCHOOLでは" [ref=e20]
+              - img "KAGEROU TATTOO SCHOOLのコース内容" [ref=e21]
+              - img "KAGEROU TATTOO SCHOOLのコース内容" [ref=e22]
+              - img "KAGEROU TATTOO SCHOOLの場所と料金" [ref=e23]
+              - generic [ref=e24]:
+                - link:
+                  - /url: https://liff.line.me/2008629487-06kammWa/landing?follow=%40922ddhwt&lp=TLi90d&liff_id=2008629487-06kammWa
+              - generic [ref=e25]:
+                - img "KAGEROU TATTOO SCHOOLのココがすごい" [ref=e26]
+                - img "プロ仕様のスタジオで学べる" [ref=e27]
+                - img "モニター募集のためにデジタルマーケティングを学べる" [ref=e28]
+                - img "実際の施術を見学できる" [ref=e29]
+              - img "卒業後にKAGEROUで採用の可能性もある" [ref=e31]
+              - generic [ref=e32]:
+                - link:
+                  - /url: https://liff.line.me/2008629487-06kammWa/landing?follow=%40922ddhwt&lp=TLi90d&liff_id=2008629487-06kammWa
+              - img "KAGEROU TATTOO SCHOOLの講師の説明" [ref=e34]
+              - img "Q&A" [ref=e35]
+              - generic [ref=e36]:
+                - link:
+                  - /url: https://liff.line.me/2008629487-06kammWa/landing?follow=%40922ddhwt&lp=TLi90d&liff_id=2008629487-06kammWa
+              - generic [ref=e37]:
+                - link "特定商取引法に基づく表記" [ref=e38] [cursor=pointer]:
+                  - /url: https://lp.kagerou-tattoo.co.jp/sct_legal_notice/
+                - text: "|"
+                - link "プライバシーポリシー" [ref=e39] [cursor=pointer]:
+                  - /url: https://lp.kagerou-tattoo.co.jp/privacy_policy/
+                - text: Copyright© KAGEROU , 2025 All Rights Reserved
+            - text:       
+      - text:   
+    - contentinfo
+  - text: 

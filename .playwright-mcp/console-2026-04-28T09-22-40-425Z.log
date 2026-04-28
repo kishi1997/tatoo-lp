@@ -1,0 +1,33 @@
+[    3420ms] [WARNING] [TikTok Pixel] - Incorrect email format
+Issue: The email format for your events does not match the format supported. This can impact Advanced Matching and your ad performance.
+Suggestion: Go to your source code and update the format of your shared emails. It should follow 'xxx@xxx.com' format. See https://ads.tiktok.com/marketing_api/docs?id=1739585700402178 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
+[    3448ms] [WARNING] [TikTok Pixel] - Incorrect email format
+Issue: The email format for your events does not match the format supported. This can impact Advanced Matching and your ad performance.
+Suggestion: Go to your source code and update the format of your shared emails. It should follow 'xxx@xxx.com' format. See https://ads.tiktok.com/marketing_api/docs?id=1739585700402178 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
+[    3448ms] [WARNING] [TikTok Pixel] - Incorrect phone number format
+Issue: The phone number format for your events doesn't follow the E.164 format. This can affect Advanced Matching and your ad performance.
+Suggestion: Go to your source code and update your shared phone numbers. It should follow the E.164 format. See https://ads.tiktok.com/marketing_api/docs?id=1739585700402178 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
+[    3450ms] [WARNING] [TikTok Pixel] - Incorrect email format
+Issue: The email format for your events does not match the format supported. This can impact Advanced Matching and your ad performance.
+Suggestion: Go to your source code and update the format of your shared emails. It should follow 'xxx@xxx.com' format. See https://ads.tiktok.com/marketing_api/docs?id=1739585700402178 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
+[    3451ms] [WARNING] [TikTok Pixel] - Incorrect phone number format
+Issue: The phone number format for your events doesn't follow the E.164 format. This can affect Advanced Matching and your ad performance.
+Suggestion: Go to your source code and update your shared phone numbers. It should follow the E.164 format. See https://ads.tiktok.com/marketing_api/docs?id=1739585700402178 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
+[    3451ms] [WARNING] [TikTok Pixel] - Invalid value parameter
+Issue: The 'value' parameter for one or more of your events is invalid. This is used calculate ROAS for people and the bid for your highest value customers. Parameters must be an integer or in the decimal format (e.g. 9.99). Also, they can't contain currency symbols, special characters, letters, or commas.
+Suggestion: Go to your source code and update the 'value' parameter. It can only include numbers greater than or equal to zero (e.g. 9.99). Do not include currency symbols, special characters, letters, or commas. See https://ads.tiktok.com/help/article/standard-events-parameters?redirected=2 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
+[    3451ms] [WARNING] [TikTok Pixel] - Invalid currency code
+Issue: The currency code for one or more of your events isn't supported. This can affect the accuracy of reporting for your ROAS.
+Suggestion: Go to your source code and update the 'currency' parameters with a supported currency code. See https://ads.tiktok.com/help/article/standard-events-parameters?redirected=2 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
+[    3452ms] [WARNING] [TikTok Pixel] - Incorrect email format
+Issue: The email format for your events does not match the format supported. This can impact Advanced Matching and your ad performance.
+Suggestion: Go to your source code and update the format of your shared emails. It should follow 'xxx@xxx.com' format. See https://ads.tiktok.com/marketing_api/docs?id=1739585700402178 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
+[    3452ms] [WARNING] [TikTok Pixel] - Incorrect phone number format
+Issue: The phone number format for your events doesn't follow the E.164 format. This can affect Advanced Matching and your ad performance.
+Suggestion: Go to your source code and update your shared phone numbers. It should follow the E.164 format. See https://ads.tiktok.com/marketing_api/docs?id=1739585700402178 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
+[   13455ms] [WARNING] [TikTok Pixel] - Incorrect email format
+Issue: The email format for your events does not match the format supported. This can impact Advanced Matching and your ad performance.
+Suggestion: Go to your source code and update the format of your shared emails. It should follow 'xxx@xxx.com' format. See https://ads.tiktok.com/marketing_api/docs?id=1739585700402178 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
+[   13456ms] [WARNING] [TikTok Pixel] - Incorrect phone number format
+Issue: The phone number format for your events doesn't follow the E.164 format. This can affect Advanced Matching and your ad performance.
+Suggestion: Go to your source code and update your shared phone numbers. It should follow the E.164 format. See https://ads.tiktok.com/marketing_api/docs?id=1739585700402178 for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MWE0ZWQ3ZWQwMA.js:0
