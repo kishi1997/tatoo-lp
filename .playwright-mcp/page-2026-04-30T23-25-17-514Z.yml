@@ -1,0 +1,669 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]: 2026年5月期 受講生募集中
+    - generic [ref=e5]: —
+    - generic [ref=e6]: 残席わずか（定員6名）
+    - link "無料相談を予約する →" [ref=e7] [cursor=pointer]:
+      - /url: "#contact"
+  - banner [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]: Painless Tattoo Studio
+      - generic [ref=e12]: Tattoo School
+    - navigation [ref=e13]:
+      - link "About" [ref=e14] [cursor=pointer]:
+        - /url: "#about"
+      - link "Curriculum" [ref=e15] [cursor=pointer]:
+        - /url: "#curriculum"
+      - link "Mentor" [ref=e16] [cursor=pointer]:
+        - /url: "#mentor"
+      - link "Tuition" [ref=e17] [cursor=pointer]:
+        - /url: "#pricing"
+      - link "FAQ" [ref=e18] [cursor=pointer]:
+        - /url: "#faq"
+    - link "無料相談はLINEから" [ref=e19] [cursor=pointer]:
+      - /url: "#contact"
+  - generic [ref=e20]:
+    - generic: 彫
+    - generic [ref=e22]:
+      - paragraph [ref=e23]: Painless Tattoo School — est. 2018
+      - paragraph [ref=e24]: from sketch to skin.
+      - heading "本物の彫り師に なるなら、 本物の環境で。" [level=1] [ref=e25]:
+        - text: 本物の彫り師に
+        - text: なるなら、
+        - text: 本物の環境で。
+      - paragraph [ref=e26]:
+        - text: 東京・上野で月1,000人以上を迎える
+        - text: Painless Tattoo Studio が、現場の知見をそのまま伝える
+        - text: 少人数スクールを開いています。
+      - generic [ref=e27]:
+        - generic [ref=e28]: 最短6ヶ月でデビュー
+        - generic [ref=e29]: 現役彫り師が直接指導
+        - generic [ref=e30]: プロスタジオで実習
+      - generic [ref=e31]:
+        - link "無料カウンセリングを予約する" [ref=e32] [cursor=pointer]:
+          - /url: "#contact"
+          - text: 無料カウンセリングを予約する
+        - link "コースを見る" [ref=e34] [cursor=pointer]:
+          - /url: "#pricing"
+      - paragraph [ref=e35]: 24時間以内に返信 · 相談無料 · 強引な勧誘はしません
+    - generic [ref=e36]:
+      - img "Painless Tattoo Studio" [ref=e38]
+      - generic [ref=e40]:
+        - generic [ref=e41]: 160席
+        - generic [ref=e42]: 東京最大級のスタジオ規模
+  - generic [ref=e44]:
+    - generic [ref=e45]:
+      - strong [ref=e46]: 160席
+      - generic [ref=e47]: 東京最大級のスタジオ規模
+    - generic [ref=e49]:
+      - strong [ref=e50]: 月1,000人+
+      - generic [ref=e51]: 来店実績のある現役スタジオ
+    - generic [ref=e53]:
+      - strong [ref=e54]: 40名+
+      - generic [ref=e55]: 在籍アーティスト数
+    - generic [ref=e57]:
+      - strong [ref=e58]: 50名+
+      - generic [ref=e59]: スクール卒業生
+  - generic [ref=e61]:
+    - link "カリキュラム カリキュラム CURRICULUM — MORE" [ref=e62] [cursor=pointer]:
+      - /url: "#curriculum"
+      - img "カリキュラム" [ref=e64]
+      - generic [ref=e65]:
+        - heading "カリキュラム" [level=3] [ref=e66]
+        - paragraph [ref=e67]: CURRICULUM
+        - generic [ref=e68]: — MORE
+    - link "料金・コース 料金・コース TUITION — MORE" [ref=e69] [cursor=pointer]:
+      - /url: "#pricing"
+      - img "料金・コース" [ref=e71]
+      - generic [ref=e72]:
+        - heading "料金・コース" [level=3] [ref=e73]
+        - paragraph [ref=e74]: TUITION
+        - generic [ref=e75]: — MORE
+    - link "よくある質問 よくある質問 FAQ — MORE" [ref=e76] [cursor=pointer]:
+      - /url: "#faq"
+      - img "よくある質問" [ref=e78]
+      - generic [ref=e79]:
+        - heading "よくある質問" [level=3] [ref=e80]
+        - paragraph [ref=e81]: FAQ
+        - generic [ref=e82]: — MORE
+  - generic [ref=e84]:
+    - generic [ref=e85]:
+      - img "Painless Tattoo Studio interior" [ref=e87]
+      - generic [ref=e88]:
+        - paragraph [ref=e89]:
+          - text: 現役スタジオが運営するスクール
+          - generic [ref=e90]: ABOUT US
+        - heading "Painless Tattoo Studio とは。" [level=2] [ref=e91]:
+          - text: Painless Tattoo Studio
+          - text: とは。
+        - paragraph [ref=e92]:
+          - text: 東京・上野に160席を構え、40名以上のアーティストが在籍するハイレベルなタトゥースタジオ。月間1,000人以上が訪れる、日本有数の規模を持つ現役スタジオです。
+          - text: このスクールはそのスタジオが直営で運営しています。「教室」ではなく「現場」で学べる——それがPainless Tattoo Schoolの最大の特徴です。
+    - generic [ref=e93]:
+      - link "無料カウンセリングを予約する ›" [ref=e94] [cursor=pointer]:
+        - /url: "#contact"
+        - text: 無料カウンセリングを予約する
+        - generic [ref=e95]: ›
+      - link "カリキュラムを見る ›" [ref=e96] [cursor=pointer]:
+        - /url: "#curriculum"
+        - text: カリキュラムを見る
+        - generic [ref=e97]: ›
+      - link "料金・コース一覧 ›" [ref=e98] [cursor=pointer]:
+        - /url: "#pricing"
+        - text: 料金・コース一覧
+        - generic [ref=e99]: ›
+  - generic [ref=e101]:
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - text: Chapter
+        - emphasis [ref=e104]: "02"
+        - generic [ref=e105]: Why now
+      - generic [ref=e106]:
+        - heading "彫り師は、 今アツい職業。" [level=2] [ref=e107]:
+          - text: 彫り師は、
+          - text: 今アツい職業。
+        - paragraph [ref=e108]: タトゥーをとりまく環境は大きく変わりました。技術を持つ彫り師の市場価値は、いま確実に高まっています。
+    - generic [ref=e109]:
+      - article [ref=e110]:
+        - generic [ref=e111]: — 01
+        - heading "インバウンド需要が急拡大" [level=3] [ref=e112]
+        - paragraph [ref=e113]: 訪日外国人がタトゥーを目的に来日するケースが急増。東京は今や世界有数のタトゥースポットとして注目を集めています。
+      - article [ref=e114]:
+        - generic [ref=e115]: — 02
+        - heading "ファッション・自己表現として定着" [level=3] [ref=e116]
+        - paragraph [ref=e117]: 20〜30代を中心に、自己表現の手段としてタトゥーを選ぶ人が急速に増えています。社会的認知も着実に変わりつつあります。
+      - article [ref=e118]:
+        - generic [ref=e119]: — 03
+        - heading "AIにも機械にも代替不可能" [level=3] [ref=e120]
+        - paragraph [ref=e121]: 生身の人間の肌に施術する技術は、テクノロジーが進化しても機械やAIには代替できません。手に職をつけるなら今が最適です。
+      - article [ref=e122]:
+        - generic [ref=e123]: — 04
+        - heading "実力者なら施術単価5万円〜" [level=3] [ref=e124]
+        - paragraph [ref=e125]: 熟練した彫り師の施術単価は1件3〜10万円以上も珍しくありません。月20件なら月収100万円以上も現実の目標になります。
+  - generic [ref=e127]:
+    - generic [ref=e128]:
+      - generic [ref=e129]:
+        - text: Chapter
+        - emphasis [ref=e130]: "03"
+        - generic [ref=e131]: Reality
+      - generic [ref=e132]:
+        - heading "彫り師になるのは、 本当に難しい。" [level=2] [ref=e133]:
+          - text: 彫り師になるのは、
+          - text: 本当に難しい。
+        - paragraph [ref=e134]: 「彫り師になりたい」と思っても、越えなければならない5つの壁があります。多くの人がここで数年を無駄にしています。
+    - generic [ref=e135]:
+      - article [ref=e136]:
+        - generic [ref=e137]: "01"
+        - heading "画力が求められる" [level=3] [ref=e138]
+        - paragraph [ref=e139]: 単に「絵が上手い」だけでは不十分。肌の上で破綻なく機能するデザインを設計する力は、独学では体系的に身につきません。
+      - article [ref=e140]:
+        - generic [ref=e141]: "02"
+        - heading "機材・安全知識が必須" [level=3] [ref=e142]
+        - paragraph [ref=e143]: マシン・針・インク・衛生管理の誤った知識は仕上がりだけでなく健康被害に直結します。独学で安全に補える知識ではありません。
+      - article [ref=e144]:
+        - generic [ref=e145]: "03"
+        - heading "実際に彫る経験が積めない" [level=3] [ref=e146]
+        - paragraph [ref=e147]: タトゥーは実践練習が命。しかし自分の施術を受けてくれる相手を見つけるのは至難の業。経験値が積めないまま時間だけが過ぎていきます。
+      - article [ref=e148]:
+        - generic [ref=e149]: "04"
+        - heading "独学では方向性を見失う" [level=3] [ref=e150]
+        - paragraph [ref=e151]: 何が正しいかわからないまま手を動かし続け、誤った癖が定着してしまうケースも。独学では修正のタイミングが遅れがちです。
+    - generic [ref=e153]:
+      - generic [ref=e154]: さらに注意が必要なのが
+      - heading "弟子入りという選択肢の落とし穴" [level=3] [ref=e155]
+      - paragraph [ref=e156]: 日本では彫り師になるために弟子入りを選ぶ人が多くいます。しかしその実態は「無給で最低1〜3年間」の修行。
+      - generic [ref=e157]:
+        - generic [ref=e158]:
+          - generic [ref=e159]: 1,920時間
+          - generic [ref=e160]: 週5日・月160時間の場合、年間の拘束時間
+        - generic [ref=e161]: ×
+        - generic [ref=e162]:
+          - generic [ref=e163]: ¥1,163/時
+          - generic [ref=e164]: 東京都最低賃金（2024年）で換算すると
+        - generic [ref=e165]: =
+        - generic [ref=e166]:
+          - generic [ref=e167]: 約223万円
+          - generic [ref=e168]: 年間で失う機会費用。3年続ければ670万円超
+      - paragraph [ref=e169]: ※実際には生活費も必要。さらに実践機会が少なく、デビューまでの期間は読めません。
+    - paragraph [ref=e171]: この5つの壁を、最短距離で越えるために。
+  - generic [ref=e173]:
+    - generic [ref=e174]:
+      - generic [ref=e175]:
+        - text: Chapter
+        - emphasis [ref=e176]: "04"
+        - generic [ref=e177]: Why us
+      - generic [ref=e178]:
+        - heading "だからこそ、 現場のスタジオが教えます。" [level=2] [ref=e179]:
+          - text: だからこそ、
+          - text: 現場のスタジオが教えます。
+        - paragraph [ref=e180]: Painless Tattoo Schoolが選ばれる5つの理由。教室ではなく、現役で稼働するスタジオで学ぶからこそできることがあります。
+    - generic [ref=e181]:
+      - generic [ref=e182]:
+        - generic [ref=e183]:
+          - generic [ref=e184]: "01"
+          - generic [ref=e185]:
+            - heading "現役プロから直接学べる" [level=3] [ref=e186]
+            - paragraph [ref=e187]: 第一線で活躍するプロ彫り師が指導。教科書ではなく、現場で生まれた実務カリキュラムだから技術と現場感覚の両方が身につきます。
+        - generic [ref=e188]:
+          - generic [ref=e189]: "02"
+          - generic [ref=e190]:
+            - heading "現役スタジオのブースで実習" [level=3] [ref=e191]
+            - paragraph [ref=e192]: Painless Tattoo Studioのブースをそのまま練習環境として使用。月1,000人以上が来店する「本物の現場」で手を動かすから、上達スピードが違います。
+        - generic [ref=e193]:
+          - generic [ref=e194]: "03"
+          - generic [ref=e195]:
+            - heading "定員6名の完全少人数制" [level=3] [ref=e196]
+            - paragraph [ref=e197]: 大人数のスクールでは得られない、マンツーマンに近い指導密度。わからないことをその場で聞けて、講師の目が一人ひとりに届きます。
+        - generic [ref=e198]:
+          - generic [ref=e199]: "04"
+          - generic [ref=e200]:
+            - heading "SNS集客・マーケティングも学べる" [level=3] [ref=e201]
+            - paragraph [ref=e202]: 技術習得だけでなく、独立・フリーランスとして活動するためのSNS運用・ブランディング・集客の基礎も指導。卒業後も食べていける力をつけます。
+        - generic [ref=e203]:
+          - generic [ref=e204]: "05"
+          - generic [ref=e205]:
+            - heading "卒業後6ヶ月間のアフターサポート" [level=3] [ref=e206]
+            - paragraph [ref=e207]: 卒業がゴールではありません。デビュー後6ヶ月間は技術・施術・集客に関する質問を随時受付。Painless Studioのネットワークで所属・独立もサポートします。
+      - img "メンターと受講生" [ref=e209]
+  - generic [ref=e211]:
+    - generic [ref=e212]:
+      - generic [ref=e213]: — Voice of Students
+      - heading "卒業生の声" [level=2] [ref=e214]
+    - generic [ref=e215]:
+      - blockquote [ref=e216]:
+        - paragraph [ref=e217]: “「独学で2年間試みて挫折しかけていた私が、6ヶ月でデビューできるとは思っていませんでした。現場のスタジオで学ぶ経験は他のスクールでは絶対に得られないと思います。」
+        - generic [ref=e218]:
+          - img "田中 M." [ref=e220]
+          - generic [ref=e221]:
+            - strong [ref=e222]: 田中 M.
+            - text: Professional コース修了 / 現在フリーランス彫り師
+      - blockquote [ref=e223]:
+        - paragraph [ref=e224]: “「少人数制だから、わからないことをその場で聞ける。SNS集客の講義が特に役立って、今はInstagramから毎月コンスタントに予約が入るようになりました。」
+        - generic [ref=e225]:
+          - img "鈴木 K." [ref=e227]
+          - generic [ref=e228]:
+            - strong [ref=e229]: 鈴木 K.
+            - text: Studio Track 修了 / Painless Tattoo Studio 在籍
+      - blockquote [ref=e230]:
+        - paragraph [ref=e231]: “「仕事をしながら週2回通いました。卒業後も6ヶ月間質問できる環境があったのが心強かった。今は月20件以上の予約が入っていて、副業から独立できました。」
+        - generic [ref=e232]:
+          - img "山本 A." [ref=e234]
+          - generic [ref=e235]:
+            - strong [ref=e236]: 山本 A.
+            - text: Foundation + Professional 修了 / 副業から独立
+  - generic [ref=e238]:
+    - generic [ref=e239]:
+      - generic [ref=e240]:
+        - text: Chapter
+        - emphasis [ref=e241]: "05"
+        - generic [ref=e242]: Curriculum
+      - generic [ref=e243]:
+        - heading "基礎から独立まで、 6ヶ月のカリキュラム。" [level=2] [ref=e244]:
+          - text: 基礎から独立まで、
+          - text: 6ヶ月のカリキュラム。
+        - paragraph [ref=e245]: 画力 → 機材・衛生 → 練習皮膚 → 実技 → マーケティング・デビュー準備まで、段階的にステップアップ。週2回の通学で、半年で現場に立てる水準まで引き上げます。
+    - generic [ref=e246]:
+      - generic [ref=e247]:
+        - generic [ref=e248]:
+          - text: — Phase 01
+          - strong [ref=e249]: Month 1
+        - heading "画力と デザインの基礎" [level=3] [ref=e250]:
+          - text: 画力と
+          - text: デザインの基礎
+        - list [ref=e251]:
+          - listitem [ref=e252]: —デッサン基礎
+          - listitem [ref=e253]: —陰影・構図設計
+          - listitem [ref=e254]: —タトゥーフラッシュ模写
+          - listitem [ref=e255]: —ボディマッピング入門
+          - listitem [ref=e256]: —デザイン制作実習
+      - generic [ref=e257]:
+        - generic [ref=e258]:
+          - text: — Phase 02
+          - strong [ref=e259]: Month 2
+        - heading "機材・衛生・ 安全管理" [level=3] [ref=e260]:
+          - text: 機材・衛生・
+          - text: 安全管理
+        - list [ref=e261]:
+          - listitem [ref=e262]: —マシン構造と選定
+          - listitem [ref=e263]: —ニードル・インクの知識
+          - listitem [ref=e264]: —医療レベルの衛生管理
+          - listitem [ref=e265]: —感染対策・滅菌処理
+          - listitem [ref=e266]: —施術同意書の実務
+      - generic [ref=e267]:
+        - generic [ref=e268]:
+          - text: — Phase 03
+          - strong [ref=e269]: Month 3
+        - heading "練習皮膚での 反復演習" [level=3] [ref=e270]:
+          - text: 練習皮膚での
+          - text: 反復演習
+        - list [ref=e271]:
+          - listitem [ref=e272]: —ラインワークの基本
+          - listitem [ref=e273]: —シェーディング・ぼかし
+          - listitem [ref=e274]: —塗りつぶしの習得
+          - listitem [ref=e275]: —カラーグラデーション
+          - listitem [ref=e276]: —速度と圧の制御
+      - generic [ref=e277]:
+        - generic [ref=e278]:
+          - text: — Phase 04
+          - strong [ref=e279]: Month 4–5
+        - heading "実モデルでの 実技指導" [level=3] [ref=e280]:
+          - text: 実モデルでの
+          - text: 実技指導
+        - list [ref=e281]:
+          - listitem [ref=e282]: —カウンセリング実践
+          - listitem [ref=e283]: —下絵調整・肌への転写
+          - listitem [ref=e284]: —ファインライン施術
+          - listitem [ref=e285]: —カバーアップ基礎
+          - listitem [ref=e286]: —講師によるリアルタイム添削
+      - generic [ref=e287]:
+        - generic [ref=e288]:
+          - text: — Phase 05
+          - strong [ref=e289]: Month 6
+        - heading "独立準備・ マーケティング" [level=3] [ref=e290]:
+          - text: 独立準備・
+          - text: マーケティング
+        - list [ref=e291]:
+          - listitem [ref=e292]: —ポートフォリオ撮影
+          - listitem [ref=e293]: —SNS運用・ブランディング
+          - listitem [ref=e294]: —料金設定・集客設計
+          - listitem [ref=e295]: —独立・所属交渉サポート
+          - listitem [ref=e296]: —スタジオネットワーク紹介
+    - link "無料カウンセリングでカリキュラム詳細を聞く" [ref=e298] [cursor=pointer]:
+      - /url: "#contact"
+      - text: 無料カウンセリングでカリキュラム詳細を聞く
+  - generic [ref=e301]:
+    - generic [ref=e302]:
+      - generic [ref=e303]:
+        - text: Chapter
+        - emphasis [ref=e304]: "06"
+        - generic [ref=e305]: Compare
+      - generic [ref=e306]:
+        - heading "他の選択肢と 比べてみてください。" [level=2] [ref=e307]:
+          - text: 他の選択肢と
+          - text: 比べてみてください。
+        - paragraph [ref=e308]: 弟子入り・他スクール・独学——Painless Tattoo Schoolの優位性を正直に比較します。
+    - table [ref=e310]:
+      - rowgroup [ref=e311]:
+        - row "Painless Tattoo School 弟子入り 大手スクール 独学" [ref=e312]:
+          - columnheader [ref=e313]
+          - columnheader "Painless Tattoo School" [ref=e314]:
+            - text: Painless
+            - text: Tattoo School
+          - columnheader "弟子入り" [ref=e315]
+          - columnheader "大手スクール" [ref=e316]
+          - columnheader "独学" [ref=e317]
+      - rowgroup [ref=e318]:
+        - row "デビューまでの期間 ◎ 最短6ヶ月 ✕ 1〜3年以上 △ 1〜2年 ✕ 不明" [ref=e319]:
+          - cell "デビューまでの期間" [ref=e320]
+          - cell "◎ 最短6ヶ月" [ref=e321]:
+            - generic [ref=e322]: ◎
+            - generic [ref=e323]: 最短6ヶ月
+          - cell "✕ 1〜3年以上" [ref=e324]:
+            - generic [ref=e325]: ✕
+            - generic [ref=e326]: 1〜3年以上
+          - cell "△ 1〜2年" [ref=e327]:
+            - generic [ref=e328]: △
+            - generic [ref=e329]: 1〜2年
+          - cell "✕ 不明" [ref=e330]:
+            - generic [ref=e331]: ✕
+            - generic [ref=e332]: 不明
+        - row "費用の透明性 ◎ 明確な料金体系 ✕ 無給で年220万円相当を失う ○ 明確だが高額 ○ 機材費のみ" [ref=e333]:
+          - cell "費用の透明性" [ref=e334]
+          - cell "◎ 明確な料金体系" [ref=e335]:
+            - generic [ref=e336]: ◎
+            - generic [ref=e337]: 明確な料金体系
+          - cell "✕ 無給で年220万円相当を失う" [ref=e338]:
+            - generic [ref=e339]: ✕
+            - generic [ref=e340]: 無給で年220万円相当を失う
+          - cell "○ 明確だが高額" [ref=e341]:
+            - generic [ref=e342]: ○
+            - generic [ref=e343]: 明確だが高額
+          - cell "○ 機材費のみ" [ref=e344]:
+            - generic [ref=e345]: ○
+            - generic [ref=e346]: 機材費のみ
+        - row "指導形式 ◎ 定員6名の少人数 △ 1対1だが雑用が多い ✕ 大人数・画一的 ✕ 指導なし" [ref=e347]:
+          - cell "指導形式" [ref=e348]
+          - cell "◎ 定員6名の少人数" [ref=e349]:
+            - generic [ref=e350]: ◎
+            - generic [ref=e351]: 定員6名の少人数
+          - cell "△ 1対1だが雑用が多い" [ref=e352]:
+            - generic [ref=e353]: △
+            - generic [ref=e354]: 1対1だが雑用が多い
+          - cell "✕ 大人数・画一的" [ref=e355]:
+            - generic [ref=e356]: ✕
+            - generic [ref=e357]: 大人数・画一的
+          - cell "✕ 指導なし" [ref=e358]:
+            - generic [ref=e359]: ✕
+            - generic [ref=e360]: 指導なし
+        - row "実践環境 ◎ 現役スタジオで実習 △ 師匠次第 △ 練習皮膚のみが多い ✕ 自力で確保が必要" [ref=e361]:
+          - cell "実践環境" [ref=e362]
+          - cell "◎ 現役スタジオで実習" [ref=e363]:
+            - generic [ref=e364]: ◎
+            - generic [ref=e365]: 現役スタジオで実習
+          - cell "△ 師匠次第" [ref=e366]:
+            - generic [ref=e367]: △
+            - generic [ref=e368]: 師匠次第
+          - cell "△ 練習皮膚のみが多い" [ref=e369]:
+            - generic [ref=e370]: △
+            - generic [ref=e371]: 練習皮膚のみが多い
+          - cell "✕ 自力で確保が必要" [ref=e372]:
+            - generic [ref=e373]: ✕
+            - generic [ref=e374]: 自力で確保が必要
+        - row "集客・SNS支援 ◎ カリキュラムに含む ✕ なし ✕ ほぼなし ✕ なし" [ref=e375]:
+          - cell "集客・SNS支援" [ref=e376]
+          - cell "◎ カリキュラムに含む" [ref=e377]:
+            - generic [ref=e378]: ◎
+            - generic [ref=e379]: カリキュラムに含む
+          - cell "✕ なし" [ref=e380]:
+            - generic [ref=e381]: ✕
+            - generic [ref=e382]: なし
+          - cell "✕ ほぼなし" [ref=e383]:
+            - generic [ref=e384]: ✕
+            - generic [ref=e385]: ほぼなし
+          - cell "✕ なし" [ref=e386]:
+            - generic [ref=e387]: ✕
+            - generic [ref=e388]: なし
+        - row "卒業後サポート ◎ 6ヶ月間サポート △ 師匠との関係次第 △ スクールによる ✕ なし" [ref=e389]:
+          - cell "卒業後サポート" [ref=e390]
+          - cell "◎ 6ヶ月間サポート" [ref=e391]:
+            - generic [ref=e392]: ◎
+            - generic [ref=e393]: 6ヶ月間サポート
+          - cell "△ 師匠との関係次第" [ref=e394]:
+            - generic [ref=e395]: △
+            - generic [ref=e396]: 師匠との関係次第
+          - cell "△ スクールによる" [ref=e397]:
+            - generic [ref=e398]: △
+            - generic [ref=e399]: スクールによる
+          - cell "✕ なし" [ref=e400]:
+            - generic [ref=e401]: ✕
+            - generic [ref=e402]: なし
+    - link "まずは無料で相談してみる" [ref=e404] [cursor=pointer]:
+      - /url: "#contact"
+      - text: まずは無料で相談してみる
+  - generic [ref=e407]:
+    - generic [ref=e408]:
+      - generic [ref=e409]:
+        - text: Chapter
+        - emphasis [ref=e410]: "07"
+        - generic [ref=e411]: Mentor
+      - generic [ref=e412]:
+        - heading "教えるのは、 第一線で彫り続けている人。" [level=2] [ref=e413]:
+          - text: 教えるのは、
+          - text: 第一線で彫り続けている人。
+        - paragraph [ref=e414]: Painless Tattoo Studio に在籍するアーティストが、講師として直接あなたを指導します。
+    - generic [ref=e415]:
+      - img "Jiro Tanaka" [ref=e417]
+      - generic [ref=e418]:
+        - heading "Lead Mentor — JIRO Jiro Tanaka" [level=3] [ref=e419]:
+          - generic [ref=e420]: Lead Mentor — JIRO
+          - text: Jiro Tanaka
+        - paragraph [ref=e421]: 15年以上、上野と海外を行き来しながら活動。リアリズム・ジャパニーズの両方を手がけ、海外コンベンション受賞歴多数。これまでに2,000件以上の施術実績を持ち、現場で通用する技術を体系化することを得意としています。現在もPainless Tattoo Studioで現役として活動中。
+        - list [ref=e422]:
+          - listitem [ref=e423]:
+            - strong [ref=e424]: "2010"
+            - generic [ref=e425]: 東京・上野でキャリアをスタート
+          - listitem [ref=e426]:
+            - strong [ref=e427]: "2015"
+            - generic [ref=e428]: London Tattoo Convention 入賞
+          - listitem [ref=e429]:
+            - strong [ref=e430]: "2018"
+            - generic [ref=e431]: Painless Tattoo Studio 立ち上げに参画
+          - listitem [ref=e432]:
+            - strong [ref=e433]: "2022"
+            - generic [ref=e434]: 育成プログラムを開講、現在までに50名以上を指導
+          - listitem [ref=e435]:
+            - strong [ref=e436]: 累計
+            - generic [ref=e437]: 2,000件以上の施術実績
+  - generic [ref=e439]:
+    - generic [ref=e440]:
+      - generic [ref=e441]:
+        - text: Chapter
+        - emphasis [ref=e442]: "08"
+        - generic [ref=e443]: Tuition
+      - generic [ref=e444]:
+        - heading "3つのコース。 あなたの段階に合わせて。" [level=2] [ref=e445]:
+          - text: 3つのコース。
+          - text: あなたの段階に合わせて。
+        - paragraph [ref=e446]: いずれも分割払い対応（最大24回）。LINEで無料カウンセリング後、最適なコースをご提案します。
+    - generic [ref=e447]:
+      - generic [ref=e448]:
+        - generic [ref=e449]: Course 01
+        - heading "Foundation" [level=3] [ref=e450]
+        - paragraph [ref=e451]: ¥280,000/ 全3ヶ月
+        - paragraph [ref=e452]: 画力と基礎機材の習得まで
+        - list [ref=e453]:
+          - listitem [ref=e454]: デッサン・構図の基礎
+          - listitem [ref=e455]: 機材・衛生の座学
+          - listitem [ref=e456]: 練習皮膚での反復演習
+          - listitem [ref=e457]: 講師による添削（隔週）
+          - listitem [ref=e458]: 卒業後3ヶ月サポート
+        - link "LINEで相談する →" [ref=e459] [cursor=pointer]:
+          - /url: "#contact"
+          - text: LINEで相談する
+          - generic [ref=e460]: →
+      - generic [ref=e461]:
+        - generic [ref=e462]: 最も選ばれています
+        - generic [ref=e463]: Course 02
+        - heading "Professional" [level=3] [ref=e464]
+        - paragraph [ref=e465]: ¥580,000/ 全6ヶ月
+        - paragraph [ref=e466]: 現場でデビューできる水準まで
+        - list [ref=e467]:
+          - listitem [ref=e468]: Foundation の全カリキュラム
+          - listitem [ref=e469]: 実モデルでの実技指導
+          - listitem [ref=e470]: ポートフォリオ撮影サポート
+          - listitem [ref=e471]: SNS・集客設計のメンタリング
+          - listitem [ref=e472]: スタジオ見学・所属紹介
+          - listitem [ref=e473]: 卒業後6ヶ月間サポート
+        - link "今すぐ無料相談する →" [ref=e474] [cursor=pointer]:
+          - /url: "#contact"
+          - text: 今すぐ無料相談する
+          - generic [ref=e475]: →
+      - generic [ref=e476]:
+        - generic [ref=e477]: Course 03
+        - heading "Studio Track" [level=3] [ref=e478]
+        - paragraph [ref=e479]: ¥980,000/ 全12ヶ月
+        - paragraph [ref=e480]: 独立・所属まで完全伴走
+        - list [ref=e481]:
+          - listitem [ref=e482]: Professional の全カリキュラム
+          - listitem [ref=e483]: 専属メンターによる長期指導
+          - listitem [ref=e484]: Painless スタジオでの実地研修
+          - listitem [ref=e485]: 独立・所属交渉のサポート
+          - listitem [ref=e486]: 卒業後12ヶ月間サポート
+        - link "LINEで相談する →" [ref=e487] [cursor=pointer]:
+          - /url: "#contact"
+          - text: LINEで相談する
+          - generic [ref=e488]: →
+    - generic [ref=e491]: "次期募集: 2026年5月開講 — 定員6名・現在残席あり。無料カウンセリングから始めてください。分割払い最大24回対応。"
+  - generic [ref=e493]:
+    - generic [ref=e494]:
+      - generic [ref=e495]:
+        - text: Chapter
+        - emphasis [ref=e496]: "09"
+        - generic [ref=e497]: FAQ
+      - generic [ref=e498]:
+        - heading "よくある質問。" [level=2] [ref=e499]
+        - paragraph [ref=e500]: ここに無いご質問は、LINEからお気軽にどうぞ。
+    - generic [ref=e501]:
+      - group [ref=e502]:
+        - generic "Q 絵を描いた経験がなくても大丈夫ですか？ −" [ref=e503] [cursor=pointer]
+        - generic [ref=e504]: A 未経験から始める方が大半です。Phase 01でデッサン・構図の基礎から積み上げますので、絵に自信がなくても安心して始めていただけます。
+      - group [ref=e505]:
+        - generic "Q 仕事をしながらでも通えますか？ +" [ref=e506] [cursor=pointer]
+        - text: A
+      - group [ref=e507]:
+        - generic "Q 当日の持ち物は何が必要ですか？ +" [ref=e508] [cursor=pointer]
+        - text: A
+      - group [ref=e509]:
+        - generic "Q 実際に人の肌に彫れる機会はありますか？ +" [ref=e510] [cursor=pointer]
+        - text: A
+      - group [ref=e511]:
+        - generic "Q 卒業後のサポートはどのくらいですか？ +" [ref=e512] [cursor=pointer]
+        - text: A
+      - group [ref=e513]:
+        - generic "Q 卒業後、Painless Tattoo Studio に所属できますか？ +" [ref=e514] [cursor=pointer]
+        - text: A
+      - group [ref=e515]:
+        - generic "Q 分割払いは可能ですか？ +" [ref=e516] [cursor=pointer]
+        - text: A
+      - group [ref=e517]:
+        - generic "Q 年齢制限はありますか？ +" [ref=e518] [cursor=pointer]
+        - text: A
+    - generic [ref=e519]:
+      - paragraph [ref=e520]: まだ迷っている方へ — まず話を聞くだけでも大丈夫です。
+      - link "無料カウンセリングを予約する" [ref=e521] [cursor=pointer]:
+        - /url: "#contact"
+        - text: 無料カウンセリングを予約する
+  - generic [ref=e525]:
+    - link "無料体験入学 無料体験入学 OPEN CLASS" [ref=e526] [cursor=pointer]:
+      - /url: "#contact"
+      - img "無料体験入学" [ref=e528]
+      - generic [ref=e529]:
+        - heading "無料体験入学" [level=3] [ref=e530]
+        - generic [ref=e531]: OPEN CLASS
+    - link "個別カウンセリング 個別カウンセリング GUIDANCE" [ref=e532] [cursor=pointer]:
+      - /url: "#contact"
+      - img "個別カウンセリング" [ref=e534]
+      - generic [ref=e535]:
+        - heading "個別カウンセリング" [level=3] [ref=e536]
+        - generic [ref=e537]: GUIDANCE
+    - link "資料請求 資料請求 REQUEST" [ref=e538] [cursor=pointer]:
+      - /url: "#contact"
+      - img "資料請求" [ref=e540]
+      - generic [ref=e541]:
+        - heading "資料請求" [level=3] [ref=e542]
+        - generic [ref=e543]: REQUEST
+  - generic [ref=e545]:
+    - generic [ref=e546]: — Apply via LINE
+    - heading "あなたの“好き”を、 一生モノの技術にしませんか。" [level=2] [ref=e547]:
+      - text: あなたの
+      - emphasis [ref=e548]: “好き”
+      - text: を、
+      - text: 一生モノの技術にしませんか。
+    - generic [ref=e549]:
+      - generic [ref=e550]:
+        - generic [ref=e551]: ✓
+        - text: 相談・カウンセリング 無料
+      - generic [ref=e552]:
+        - generic [ref=e553]: ✓
+        - text: 強引な勧誘は一切しません
+      - generic [ref=e554]:
+        - generic [ref=e555]: ✓
+        - text: 24時間以内にご返信
+      - generic [ref=e556]:
+        - generic [ref=e557]: ✓
+        - text: 分割払い対応（最大24回）
+    - link "LINEで無料カウンセリングを予約する" [ref=e558] [cursor=pointer]:
+      - /url: "#"
+      - text: LINEで無料カウンセリングを予約する
+    - generic [ref=e560]: "次期募集: 2026年5月開講 — 定員6名"
+  - contentinfo [ref=e561]:
+    - generic [ref=e562]:
+      - generic [ref=e563]:
+        - heading "Painless Tattoo Studio" [level=4] [ref=e564]
+        - paragraph [ref=e565]:
+          - text: 東京・上野で160席を構えるタトゥースタジオ。
+          - text: "運営: Painless Tattoo School"
+      - generic [ref=e566]:
+        - heading "School" [level=5] [ref=e567]
+        - list [ref=e568]:
+          - listitem [ref=e569]:
+            - link "About" [ref=e570] [cursor=pointer]:
+              - /url: "#about"
+          - listitem [ref=e571]:
+            - link "Curriculum" [ref=e572] [cursor=pointer]:
+              - /url: "#curriculum"
+          - listitem [ref=e573]:
+            - link "Mentor" [ref=e574] [cursor=pointer]:
+              - /url: "#mentor"
+          - listitem [ref=e575]:
+            - link "Tuition" [ref=e576] [cursor=pointer]:
+              - /url: "#pricing"
+          - listitem [ref=e577]:
+            - link "比較表" [ref=e578] [cursor=pointer]:
+              - /url: "#comparison"
+      - generic [ref=e579]:
+        - heading "Visit" [level=5] [ref=e580]
+        - list [ref=e581]:
+          - listitem [ref=e582]: 〒110-0005
+          - listitem [ref=e583]: 東京都台東区上野
+          - listitem [ref=e584]: 11:00 — 22:00
+      - generic [ref=e585]:
+        - heading "Contact" [level=5] [ref=e586]
+        - list [ref=e587]:
+          - listitem [ref=e588]: LINE @painless-school
+          - listitem [ref=e589]: info@painless.example
+      - generic [ref=e590]:
+        - heading "Links" [level=5] [ref=e591]
+        - list [ref=e592]:
+          - listitem [ref=e593]:
+            - link "無料相談" [ref=e594] [cursor=pointer]:
+              - /url: "#contact"
+          - listitem [ref=e595]:
+            - link "よくある質問" [ref=e596] [cursor=pointer]:
+              - /url: "#faq"
+          - listitem [ref=e597]:
+            - link "料金一覧" [ref=e598] [cursor=pointer]:
+              - /url: "#pricing"
+    - generic [ref=e599]:
+      - generic [ref=e600]: © 2026 Painless Tattoo Studio
+      - generic [ref=e601]: Tokyo · Ueno
