@@ -46,10 +46,13 @@
 
   <!-- ===== HERO ===== -->
   <section class="hero">
+    <div class="hero__flash" aria-hidden="true"></div>
+    <div class="hero__line-art" aria-hidden="true"></div>
     <!-- Left: text panel -->
     <div class="hero__panel">
       <div class="hero__panel-inner">
         <p class="eyebrow">Painless Tattoo School &mdash; est. 2018</p>
+        <p class="hero__message">未経験から、現場で選ばれる彫り師へ。</p>
         <h1 class="hero__title">
           本物の彫り師に<br>
           なるなら、<br>
@@ -82,6 +85,10 @@
         <img src="img/clinic-hero.png" alt="Painless Tattoo Studio">
       </div>
       <div class="hero__visual-overlay"></div>
+      <div class="hero__tool-card" aria-hidden="true">
+        <img src="img/icon-needle.svg" alt="">
+        <span>Real studio training</span>
+      </div>
       <div class="hero__floating-stat">
         <b>160席</b>
         <span>東京最大級のスタジオ規模</span>
@@ -92,27 +99,48 @@
   <!-- ===== 実績バンド ===== -->
   <div class="proof-band">
     <div class="container proof-band__inner">
+      <div class="proof-band__lead">
+        <span>選ばれる理由は、すべて現場にあります。</span>
+      </div>
       <div class="proof-band__item">
+        <img src="img/icon-studio.svg" alt="" class="proof-band__icon">
         <strong>160席</strong>
         <span>東京最大級のスタジオ規模</span>
       </div>
       <div class="proof-band__div"></div>
       <div class="proof-band__item">
+        <img src="img/icon-growth.svg" alt="" class="proof-band__icon">
         <strong>月1,000人+</strong>
         <span>来店実績のある現役スタジオ</span>
       </div>
       <div class="proof-band__div"></div>
       <div class="proof-band__item">
+        <img src="img/icon-needle.svg" alt="" class="proof-band__icon">
         <strong>40名+</strong>
         <span>在籍アーティスト数</span>
       </div>
       <div class="proof-band__div"></div>
       <div class="proof-band__item">
+        <img src="img/icon-support.svg" alt="" class="proof-band__icon">
         <strong>50名+</strong>
         <span>スクール卒業生</span>
       </div>
     </div>
   </div>
+
+  <!-- ===== Visual Message Band ===== -->
+  <section class="flash-band" aria-label="スクールの特徴">
+    <div class="flash-band__inner">
+      <p class="flash-band__eyebrow">FROM SKETCH TO SKIN</p>
+      <h2 class="flash-band__title">線を描く力を、<br>現場で通用する技術へ。</h2>
+      <div class="flash-band__chips" aria-label="学べる内容">
+        <span>Design</span>
+        <span>Machine Work</span>
+        <span>Hygiene</span>
+        <span>Studio Practice</span>
+      </div>
+    </div>
+  </section>
 
   <!-- ===== お知らせ NEWS ===== -->
   <!-- <section class="news-section">
@@ -159,6 +187,7 @@
       <a href="#curriculum" class="feature-tile">
         <div class="feature-tile__img"><img src="img/clinic-curriculum.png" alt="カリキュラム"></div>
         <div class="feature-tile__body">
+          <img src="img/icon-sketch.svg" alt="" class="feature-tile__icon">
           <h3 class="feature-tile__title">カリキュラム</h3>
           <p class="feature-tile__sub">CURRICULUM</p>
           <span class="feature-tile__more">— MORE</span>
@@ -167,6 +196,7 @@
       <a href="#pricing" class="feature-tile">
         <div class="feature-tile__img"><img src="img/clinic-tuition.png" alt="料金・コース"></div>
         <div class="feature-tile__body">
+          <img src="img/icon-growth.svg" alt="" class="feature-tile__icon">
           <h3 class="feature-tile__title">料金・コース</h3>
           <p class="feature-tile__sub">TUITION</p>
           <span class="feature-tile__more">— MORE</span>
@@ -175,6 +205,7 @@
       <a href="#faq" class="feature-tile">
         <div class="feature-tile__img"><img src="img/clinic-faq.png" alt="よくある質問"></div>
         <div class="feature-tile__body">
+          <img src="img/icon-chat.svg" alt="" class="feature-tile__icon">
           <h3 class="feature-tile__title">よくある質問</h3>
           <p class="feature-tile__sub">FAQ</p>
           <span class="feature-tile__more">— MORE</span>
@@ -189,14 +220,24 @@
       <div class="studio-layout">
         <div class="studio-media">
           <img src="img/clinic-hero.png" alt="Painless Tattoo Studio interior">
+          <div class="studio-media__stamp" aria-hidden="true">Real<br>Studio</div>
         </div>
         <div class="studio-content">
           <p class="studio-eyebrow">現役スタジオが運営するスクール <span class="studio-eyebrow__en">ABOUT US</span></p>
           <h2 class="studio-title">Painless Tattoo Studio<br />とは。</h2>
+          <div class="message-card">
+            <span class="message-card__label">Point</span>
+            <p>教室で学ぶだけではなく、月1,000人以上が訪れる現役スタジオの空気・基準・導線まで学べます。</p>
+          </div>
           <p class="studio-copy">
             東京・上野に160席を構え、40名以上のアーティストが在籍するハイレベルなタトゥースタジオ。月間1,000人以上が訪れる、日本有数の規模を持つ現役スタジオです。<br /><br />
             このスクールはそのスタジオが直営で運営しています。「教室」ではなく「現場」で学べる——それがPainless Tattoo Schoolの最大の特徴です。
           </p>
+          <div class="studio-mini-grid" aria-label="スタジオで学べる強み">
+            <span><img src="img/icon-studio.svg" alt="">現場導線</span>
+            <span><img src="img/icon-shield.svg" alt="">衛生基準</span>
+            <span><img src="img/icon-needle.svg" alt="">実技環境</span>
+          </div>
         </div>
       </div>
       <div class="studio-ctas">
@@ -222,23 +263,31 @@
           </p>
         </div>
       </div>
+      <div class="section-message">
+        <span class="section-message__label">Message</span>
+        <p>伸びている市場で、機械に置き換えられない手仕事を身につける。だから今、彫り師を目指す価値があります。</p>
+      </div>
       <div class="why-grid">
         <article class="why-item">
+          <img src="img/icon-growth.svg" alt="" class="card-icon">
           <div class="why-item__num">— 01</div>
           <h3 class="why-item__title">インバウンド需要が急拡大</h3>
           <p class="why-item__copy">訪日外国人がタトゥーを目的に来日するケースが急増。東京は今や世界有数のタトゥースポットとして注目を集めています。</p>
         </article>
         <article class="why-item">
+          <img src="img/icon-sketch.svg" alt="" class="card-icon">
           <div class="why-item__num">— 02</div>
           <h3 class="why-item__title">ファッション・自己表現として定着</h3>
           <p class="why-item__copy">20〜30代を中心に、自己表現の手段としてタトゥーを選ぶ人が急速に増えています。社会的認知も着実に変わりつつあります。</p>
         </article>
         <article class="why-item">
+          <img src="img/icon-needle.svg" alt="" class="card-icon">
           <div class="why-item__num">— 03</div>
           <h3 class="why-item__title">AIにも機械にも代替不可能</h3>
           <p class="why-item__copy">生身の人間の肌に施術する技術は、テクノロジーが進化しても機械やAIには代替できません。手に職をつけるなら今が最適です。</p>
         </article>
         <article class="why-item">
+          <img src="img/icon-growth.svg" alt="" class="card-icon">
           <div class="why-item__num">— 04</div>
           <h3 class="why-item__title">実力者なら施術単価5万円〜</h3>
           <p class="why-item__copy">熟練した彫り師の施術単価は1件3〜10万円以上も珍しくありません。月20件なら月収100万円以上も現実の目標になります。</p>
@@ -262,24 +311,32 @@
           </p>
         </div>
       </div>
+      <div class="section-message section-message--alert">
+        <span class="section-message__label">Reality</span>
+        <p>独学で一番失いやすいのは時間です。正しい順番・安全な環境・添削がないまま進むほど、遠回りになります。</p>
+      </div>
 
       <div class="problems-grid">
         <article class="problem-item">
+          <img src="img/icon-sketch.svg" alt="" class="card-icon">
           <div class="problem-item__num">01</div>
           <h3 class="problem-item__title">画力が求められる</h3>
           <p class="problem-item__copy">単に「絵が上手い」だけでは不十分。肌の上で破綻なく機能するデザインを設計する力は、独学では体系的に身につきません。</p>
         </article>
         <article class="problem-item">
+          <img src="img/icon-shield.svg" alt="" class="card-icon">
           <div class="problem-item__num">02</div>
           <h3 class="problem-item__title">機材・安全知識が必須</h3>
           <p class="problem-item__copy">マシン・針・インク・衛生管理の誤った知識は仕上がりだけでなく健康被害に直結します。独学で安全に補える知識ではありません。</p>
         </article>
         <article class="problem-item">
+          <img src="img/icon-needle.svg" alt="" class="card-icon">
           <div class="problem-item__num">03</div>
           <h3 class="problem-item__title">実際に彫る経験が積めない</h3>
           <p class="problem-item__copy">タトゥーは実践練習が命。しかし自分の施術を受けてくれる相手を見つけるのは至難の業。経験値が積めないまま時間だけが過ぎていきます。</p>
         </article>
         <article class="problem-item">
+          <img src="img/icon-compare.svg" alt="" class="card-icon">
           <div class="problem-item__num">04</div>
           <h3 class="problem-item__title">独学では方向性を見失う</h3>
           <p class="problem-item__copy">何が正しいかわからないまま手を動かし続け、誤った癖が定着してしまうケースも。独学では修正のタイミングが遅れがちです。</p>
@@ -289,28 +346,44 @@
       <!-- 弟子入りデメリット -->
       <div class="apprentice-warning">
         <div class="apprentice-warning__inner">
-          <div class="apprentice-warning__label">さらに注意が必要なのが</div>
-          <h3 class="apprentice-warning__title">弟子入りという選択肢の落とし穴</h3>
-          <p class="apprentice-warning__copy">
-            日本では彫り師になるために弟子入りを選ぶ人が多くいます。しかしその実態は「無給で最低1〜3年間」の修行。
-          </p>
-          <div class="apprentice-cost">
-            <div class="apprentice-cost__item">
-              <div class="apprentice-cost__num">1,920<small>時間</small></div>
-              <div class="apprentice-cost__label">週5日・月160時間の場合、年間の拘束時間</div>
+          <div class="apprentice-warning__content">
+            <div class="apprentice-warning__label">
+              <img src="img/icon-shield.svg" alt="">
+              <span>Risk Check</span>
             </div>
-            <div class="apprentice-cost__arrow">×</div>
-            <div class="apprentice-cost__item">
-              <div class="apprentice-cost__num">¥1,163<small>/時</small></div>
-              <div class="apprentice-cost__label">東京都最低賃金（2024年）で換算すると</div>
-            </div>
-            <div class="apprentice-cost__arrow">=</div>
-            <div class="apprentice-cost__item apprentice-cost__item--total">
-              <div class="apprentice-cost__num">約223<small>万円</small></div>
-              <div class="apprentice-cost__label">年間で失う機会費用。3年続ければ670万円超</div>
+            <h3 class="apprentice-warning__title">弟子入りという選択肢の落とし穴</h3>
+            <p class="apprentice-warning__copy">
+              日本では彫り師になるために弟子入りを選ぶ人が多くいます。しかしその実態は「無給で最低1〜3年間」の修行。学べる内容が見えないまま、時間と収入機会を大きく失うリスクがあります。
+            </p>
+            <div class="apprentice-warning__tags" aria-label="弟子入りで起こりやすい課題">
+              <span>無給期間</span>
+              <span>実践機会が少ない</span>
+              <span>デビュー時期が不透明</span>
             </div>
           </div>
-          <p class="apprentice-warning__note">※実際には生活費も必要。さらに実践機会が少なく、デビューまでの期間は読めません。</p>
+          <div class="apprentice-cost" aria-label="弟子入りで失う機会費用の目安">
+            <div class="apprentice-cost__head">
+              <span>Opportunity Cost</span>
+              <strong>1年間で失う可能性がある金額</strong>
+            </div>
+            <div class="apprentice-cost__formula">
+              <div class="apprentice-cost__item">
+                <div class="apprentice-cost__num">1,920<small>時間</small></div>
+                <div class="apprentice-cost__label">週5日・月160時間の場合、年間の拘束時間</div>
+              </div>
+              <div class="apprentice-cost__arrow">×</div>
+              <div class="apprentice-cost__item">
+                <div class="apprentice-cost__num">¥1,163<small>/時</small></div>
+                <div class="apprentice-cost__label">東京都最低賃金（2024年）で換算すると</div>
+              </div>
+            </div>
+            <div class="apprentice-cost__total">
+              <span>年間の機会損失</span>
+              <div class="apprentice-cost__num">約223<small>万円</small></div>
+              <p>3年続ければ670万円超。生活費を含めると、負担はさらに大きくなります。</p>
+            </div>
+            <p class="apprentice-warning__note">※実際には生活費も必要。さらに実践機会が少なく、デビューまでの期間は読めません。</p>
+          </div>
         </div>
       </div>
 
@@ -335,9 +408,14 @@
           </p>
         </div>
       </div>
+      <div class="section-message">
+        <span class="section-message__label">Answer</span>
+        <p>必要なのは、才能よりも「現場基準で反復できる環境」。Painlessはその環境を最初から用意します。</p>
+      </div>
       <div class="promise">
         <div class="reason-list">
           <div class="reason">
+            <img src="img/icon-needle.svg" alt="" class="reason__icon">
             <div class="reason__num">01</div>
             <div>
               <h3 class="reason__title">現役プロから直接学べる</h3>
@@ -345,6 +423,7 @@
             </div>
           </div>
           <div class="reason">
+            <img src="img/icon-studio.svg" alt="" class="reason__icon">
             <div class="reason__num">02</div>
             <div>
               <h3 class="reason__title">現役スタジオのブースで実習</h3>
@@ -353,6 +432,7 @@
             </div>
           </div>
           <div class="reason">
+            <img src="img/icon-support.svg" alt="" class="reason__icon">
             <div class="reason__num">03</div>
             <div>
               <h3 class="reason__title">定員6名の完全少人数制</h3>
@@ -360,6 +440,7 @@
             </div>
           </div>
           <div class="reason">
+            <img src="img/icon-growth.svg" alt="" class="reason__icon">
             <div class="reason__num">04</div>
             <div>
               <h3 class="reason__title">SNS集客・マーケティングも学べる</h3>
@@ -367,6 +448,7 @@
             </div>
           </div>
           <div class="reason">
+            <img src="img/icon-chat.svg" alt="" class="reason__icon">
             <div class="reason__num">05</div>
             <div>
               <h3 class="reason__title">卒業後6ヶ月間のアフターサポート</h3>
@@ -388,6 +470,7 @@
       <div class="voices__head">
         <div class="voices__label">— Voice of Students</div>
         <h2 class="voices__title">卒業生の声</h2>
+        <p class="voices__message">受講後に何が変わったのか。成果が見える声だけを抜粋しています。</p>
       </div>
       <div class="voices__grid">
         <blockquote class="voice">
@@ -439,8 +522,13 @@
           </p>
         </div>
       </div>
+      <div class="section-message">
+        <span class="section-message__label">Goal</span>
+        <p>6ヶ月後のゴールは「知識を知っている」ではなく、モデル対応・作品作り・集客準備まで自分で進められる状態です。</p>
+      </div>
       <div class="curriculum">
         <div class="curriculum-row">
+          <img src="img/icon-sketch.svg" alt="" class="curriculum-row__icon">
           <div class="curriculum-row__phase">— Phase 01<strong>Month 1</strong></div>
           <h3 class="curriculum-row__title">画力と<br />デザインの基礎</h3>
           <ul class="curriculum-row__items">
@@ -452,6 +540,7 @@
           </ul>
         </div>
         <div class="curriculum-row">
+          <img src="img/icon-shield.svg" alt="" class="curriculum-row__icon">
           <div class="curriculum-row__phase">— Phase 02<strong>Month 2</strong></div>
           <h3 class="curriculum-row__title">機材・衛生・<br />安全管理</h3>
           <ul class="curriculum-row__items">
@@ -463,6 +552,7 @@
           </ul>
         </div>
         <div class="curriculum-row">
+          <img src="img/icon-needle.svg" alt="" class="curriculum-row__icon">
           <div class="curriculum-row__phase">— Phase 03<strong>Month 3</strong></div>
           <h3 class="curriculum-row__title">練習皮膚での<br />反復演習</h3>
           <ul class="curriculum-row__items">
@@ -474,6 +564,7 @@
           </ul>
         </div>
         <div class="curriculum-row">
+          <img src="img/icon-studio.svg" alt="" class="curriculum-row__icon">
           <div class="curriculum-row__phase">— Phase 04<strong>Month 4–5</strong></div>
           <h3 class="curriculum-row__title">実モデルでの<br />実技指導</h3>
           <ul class="curriculum-row__items">
@@ -485,6 +576,7 @@
           </ul>
         </div>
         <div class="curriculum-row">
+          <img src="img/icon-growth.svg" alt="" class="curriculum-row__icon">
           <div class="curriculum-row__phase">— Phase 05<strong>Month 6</strong></div>
           <h3 class="curriculum-row__title">独立準備・<br />マーケティング</h3>
           <ul class="curriculum-row__items">
@@ -514,6 +606,11 @@
           <h2 class="section-head__title">他の選択肢と<br />比べてみてください。</h2>
           <p class="section-head__lede">弟子入り・他スクール・独学——Painless Tattoo Schoolの優位性を正直に比較します。</p>
         </div>
+      </div>
+      <div class="compare-summary" aria-label="比較の要点">
+        <div><img src="img/icon-growth.svg" alt=""><strong>最短6ヶ月</strong><span>デビューまでの道筋が明確</span></div>
+        <div><img src="img/icon-studio.svg" alt=""><strong>現場実習</strong><span>スタジオ基準で練習できる</span></div>
+        <div><img src="img/icon-support.svg" alt=""><strong>卒業後支援</strong><span>技術と集客を継続サポート</span></div>
       </div>
       <div class="comparison-table-wrap">
         <table class="comparison-table">
@@ -592,8 +689,15 @@
         </div>
       </div>
       <div class="mentor">
-        <div class="mentor__media"><img src="img/clinic-mentor.png" alt="Jiro Tanaka"></div>
+        <div class="mentor__media">
+          <img src="img/clinic-mentor.png" alt="Jiro Tanaka">
+          <div class="mentor__badge" aria-hidden="true">2,000+<span>works</span></div>
+        </div>
         <div>
+          <div class="message-card">
+            <span class="message-card__label">Mentor</span>
+            <p>講師は「教える専門家」ではなく、今も予約を受け、肌に向き合い続けている現役の彫り師です。</p>
+          </div>
           <h3 class="mentor__name">
             <small>Lead Mentor — JIRO</small>
             Jiro Tanaka
@@ -626,8 +730,13 @@
           <p class="section-head__lede">いずれも分割払い対応（最大24回）。LINEで無料カウンセリング後、最適なコースをご提案します。</p>
         </div>
       </div>
+      <div class="section-message">
+        <span class="section-message__label">Choose</span>
+        <p>迷ったらProfessional。基礎・実モデル・集客準備・卒業後サポートまで、デビューに必要な流れをまとめて学べます。</p>
+      </div>
       <div class="pricing">
         <div class="plan">
+          <img src="img/icon-sketch.svg" alt="" class="plan__icon">
           <div class="plan__tag">Course 01</div>
           <h3 class="plan__name">Foundation</h3>
           <p class="plan__price">¥280,000<small>/ 全3ヶ月</small></p>
@@ -642,6 +751,7 @@
           <a href="#contact" class="plan__cta">LINEで相談する <span>→</span></a>
         </div>
         <div class="plan plan--feat">
+          <img src="img/icon-needle.svg" alt="" class="plan__icon">
           <div class="plan__badge">最も選ばれています</div>
           <div class="plan__tag">Course 02</div>
           <h3 class="plan__name">Professional</h3>
@@ -658,6 +768,7 @@
           <a href="#contact" class="plan__cta plan__cta--feat">今すぐ無料相談する <span>→</span></a>
         </div>
         <div class="plan">
+          <img src="img/icon-studio.svg" alt="" class="plan__icon">
           <div class="plan__tag">Course 03</div>
           <h3 class="plan__name">Studio Track</h3>
           <p class="plan__price">¥980,000<small>/ 全12ヶ月</small></p>
@@ -737,6 +848,10 @@
   <!-- ===== 下部 3カード ===== -->
   <section class="bottom-cards-section">
     <div class="container">
+      <div class="bottom-cards-head">
+        <p>まずは小さく試せます。</p>
+        <h2>相談・体験・資料請求から選んでください。</h2>
+      </div>
       <div class="bottom-cards">
         <a href="#contact" class="bottom-card">
           <div class="bottom-card__img"><img src="img/clinic-open-class.png" alt="無料体験入学"></div>
@@ -771,6 +886,7 @@
         あなたの<em>&#x201C;好き&#x201D;</em>を、<br />
         一生モノの技術にしませんか。
       </h2>
+      <p class="final__lead">まだ決めきれていなくても大丈夫です。今の状況と不安を聞いたうえで、必要な準備とコースを一緒に整理します。</p>
       <div class="final__checklist">
         <div class="final__check"><span>✓</span> 相談・カウンセリング 無料</div>
         <div class="final__check"><span>✓</span> 強引な勧誘は一切しません</div>
